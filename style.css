@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  /* background-color: black; */
   margin: auto;
 }
 
@@ -14,7 +14,7 @@ ul {
 }
 
 .img-header li {
-  margin-top: 5px;
+  margin-top: 15px;
 }
 
 .background-img {
@@ -31,6 +31,7 @@ ul {
   width: 60px;
   height: 60px;
   background-color: burlywood;
+
   border: none;
   outline: none;
   cursor: pointer;
