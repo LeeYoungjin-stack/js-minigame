@@ -52,7 +52,7 @@ ul {
   transform: translateX(-35px);
 }
 
-#carrot-count {
+.carrot-count {
   background-color: darksalmon;
   color: white;
   width: 50px;
